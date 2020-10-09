@@ -18,7 +18,7 @@ import withLayout from './hoc/withLayout';
 const EnhancedTab = withLayout(Tab);
 
 const Routes = ({ todos, ...props }) => (
-  <IonReactRouter basename={process.env.PUBLIC_URL}>
+  <IonReactRouter>
     <IonTabs>
       <IonRouterOutlet>
         <Route

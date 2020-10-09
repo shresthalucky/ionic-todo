@@ -1,5 +1,4 @@
 import React from 'react';
-import './Tab.css';
 import { IonList } from '@ionic/react';
 
 import Todo from '../components/Todo';

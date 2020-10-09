@@ -2,8 +2,8 @@
   "name": "ionic-todo",
   "version": "0.0.1",
   "private": true,
-  "homepage": "https://shresthalucky.github.io/ionic-todo",
   "dependencies": {
+    "@capacitor/android": "^2.4.2",
     "@capacitor/core": "2.4.2",
     "@ionic/react": "^5.0.7",
     "@ionic/react-router": "^5.0.7",
