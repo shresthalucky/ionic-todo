@@ -41,7 +41,7 @@ To generate build files for android, run:
 $ ionic cap add android
 ```
 
-Add path to Android Studio in ```ionic.config.json```:
+Add path to Android Studio in [```capacitor.config.json```](capacitor.config.json):
 ```
 ...
 "linuxAndroidStudioPath": "/opt/android-studio/bin/studio.sh",
